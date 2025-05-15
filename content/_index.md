@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Opto-Mechatronic Laboratory
       image:
         filename: welcome.jpg
       text: |
