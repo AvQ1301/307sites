@@ -3,6 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+
+#site title, URL, Hugo options, setup per-folder page features
+
 title: Opto-Mechatronic Laboratory # Website name
 baseURL: 'https://example.com/' # Website URL
 
@@ -61,3 +64,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+sectionPagesMenu: 5

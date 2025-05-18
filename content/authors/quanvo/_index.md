@@ -8,38 +8,35 @@ last_name: Vo
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - quanvo
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Student / Head of Laboratory
+role: Student / Head of Lab.307
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Hanoi University of Science and Technology
+    url: 'https://hust.edu.vn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applying Machine Learning and Deep Learning in physics, optical research, and quantum imaging.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning & Deep Learning
+  - Robotics & Automation
+  - Laser Science & Applications
+  - Quantum Computing
+  - Applied Physics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mechanical Engineering/Precision and Optical Engineering
+      institution: Hanoi University of Science and Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,15 +62,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'quan.va211650@sis.hust.edu.vn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+
 user_groups:
-  - Researchers
-  - Visitors
+  - Undergraduate Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Quan Vo is a researcher at the Opto-Mechatronic Laboratory, focusing on the intersection of artificial intelligence and optical physics. His research interests span machine learning applications in physics, optical research, and quantum imaging. He works on developing novel approaches to combine deep learning techniques with optical systems and laser applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, he is exploring innovative ways to apply AI and machine learning in precision optical engineering and quantum computing. His work aims to advance the field of optical physics through the integration of modern computational methods and traditional optical engineering principles.
